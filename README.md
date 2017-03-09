@@ -31,6 +31,13 @@ It has some great visual diagrams (particularly for servers/backend/behind the s
 
 
 
+
+
+
+
+
+
+
 What is an SQL versus a noSQL database? Why is one preferable to another? 
 
 •	An SQL is a “standard language for accessing databases” (W3schools) where the database itself allows you to make tables, draw from other databases,  retrieve data..etc. 
@@ -52,6 +59,10 @@ On top of that, it has a quiz and interactive option so you can get a real hang 
 
 
 
+
+
+
+
 Where do you go to find help on JavaScript questions? 
 •	I normally go to w3Schools for JavaScript questions, they have the specific functions that I am looking for- 
 particularly with JavaScript it’s very helpful to have the exact phrase that I can directly input into my js file. 
@@ -60,10 +71,13 @@ particularly with JavaScript it’s very helpful to have the exact phrase that I
 
 
 
-• Let’s say you want to find information on how promises work in ES6. What does that mean? 
+Let’s say you want to find information on how promises work in ES6. What does that mean? 
 
-ES6 is the newest and upcoming sixth version of JavaScript, and “promises” within the JavaScript language are a way to work with asynchronous processing (and synchronous code flows). 
+• ES6 is the newest and upcoming sixth version of JavaScript, and “promises” within the JavaScript language are a way to work with asynchronous processing (and synchronous code flows). 
 Promises can be used as values within our JavaScript functions, can represent future functions, and can “unify asynchronous APIs” (Dave Atchely).
+
+
+
 
 Make a list of at least 3 resources you consulted in finding that answer.
 
@@ -71,11 +85,13 @@ Make a list of at least 3 resources you consulted in finding that answer.
 2.) Dave Atchley’s Blog: http://www.datchley.name/es6-promises/ 
 3.) Atomic Object Blog: https://spin.atomicobject.com/2016/02/16/how-javascript-promises-work/ 
 
-•  Imagine you are working on a problem with using git to merge files from another contributor on your project. 
 
-•  What resources can you find to help you understand git merge? On your system, what editor gets launched to show merges?
 
-•  How do you use it to edit text, save, and exit?
+
+
+
+Imagine you are working on a problem with using git to merge files from another contributor on your project. What resources can you find to help you understand git merge? On your system, what editor gets launched to show merges?
+How do you use it to edit text, save, and exit?
 
 • To understand how to git merge the websites https://git-scm.com/docs/git-merge and https://code.visualstudio.com/docs/editor/versioncontrol are very helpful- for myself who owns a MacBook, my system will automatically launch Visual Studio Code2 where I can edit everything on my device and then merge with the other people working on the same material. To git merge I can do the following commands in my terminal: (1) git checkout master (2) git pull origin master (3) git merge test (4) git push origin master. 
 
