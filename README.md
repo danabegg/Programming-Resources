@@ -10,8 +10,11 @@ Helpful sources: Codeup: http://codeup.com/different-types-of-programmers-front-
 
 
 What are 3 good resources for understanding servers? 
+
 1.)Stack Overflow
+
 2.)Stack Exchange - Under Software Engineering
+
 3.) Upwork
 
 
@@ -64,6 +67,7 @@ On top of that, it has a quiz and interactive option so you can get a real hang 
 
 
 Where do you go to find help on JavaScript questions? 
+
 •	I normally go to w3Schools for JavaScript questions, they have the specific functions that I am looking for- 
 particularly with JavaScript it’s very helpful to have the exact phrase that I can directly input into my js file. 
 
